@@ -1,7 +1,7 @@
+//topic: variables - int, double | user input, outputtopic: variables - int, double | user input, output
 package Basic_Concepts;
 import java.util.ArrayList;
 import java.util.Arrays;
-//topic: variables - int, double | user input, outputtopic: variables - int, double | user input, output
 import java.util.Scanner;
 
 public class Calculator {
