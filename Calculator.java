@@ -1,4 +1,4 @@
-//topic: variables - int, double | user input, outputtopic: variables - int, double | user input, output
+
 package Basic_Concepts;
 import java.util.ArrayList;
 import java.util.Arrays;
